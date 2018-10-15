@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "95400977-d179-46bf-95ec-2b0ccbdc50d2",
+            "Value": {
+                "id": "759b7f2e-0997-404e-8ad4-09c33bf2bf53",
+                "resourcePath": "objects\\obj_fake_door\\obj_fake_door.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9836be0c-238d-4d83-9f79-0301e37b7e8d",
             "Value": {
                 "id": "9657c448-d9fd-48da-92b3-46c72b182910",
