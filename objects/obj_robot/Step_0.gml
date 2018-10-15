@@ -3,7 +3,17 @@ y_move = keyboard_check(vk_down)-keyboard_check(vk_up);
 
 if (keyboard_check(vk_right) || keyboard_check(vk_left) || keyboard_check(vk_down) || keyboard_check(vk_up)) 
 {
-	sprite_index = spr_robot_walking;
+	if (keyboard_check(vk_down)) {
+		sprite_index = spr_robot_down
+	}
+	
+	if (keyboard_check(vk_right) || keyboard_check(vk_left) ) {
+		sprite_index = spr_robot_walking
+	}
+	
+	if (keyboard_check(vk_up)) {
+		sprite_index = spr_robot_up
+	}
 } else {
 	sprite_index = spr_robot_idle;
 }

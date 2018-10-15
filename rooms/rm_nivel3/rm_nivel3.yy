@@ -83,7 +83,8 @@
         "557eddde-4713-41b5-9f5a-8a845498759a",
         "c66d2bc5-1f81-4642-b267-30e17eb72cc0",
         "08c4d051-7e39-4ad0-91c0-95204d715c76",
-        "ad813196-2063-482f-bfaa-95296565a28b"
+        "ad813196-2063-482f-bfaa-95296565a28b",
+        "d9bd01f4-3ac7-47dd-88a7-4dbdd4aa1c58"
     ],
     "IsDnD": true,
     "layers": [
@@ -177,7 +178,8 @@
 {"name": "inst_61AB123B","id": "557eddde-4713-41b5-9f5a-8a845498759a","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_61AB123B","objId": "6f101e71-7c1a-4172-9485-926d9847ca49","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 928,"y": 672},
 {"name": "inst_5B316365","id": "c66d2bc5-1f81-4642-b267-30e17eb72cc0","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5B316365","objId": "adc2e03f-d92e-4f53-b2ea-f37c15667973","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 96,"y": 96},
 {"name": "inst_7602025D","id": "08c4d051-7e39-4ad0-91c0-95204d715c76","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_7602025D","objId": "adc2e03f-d92e-4f53-b2ea-f37c15667973","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 352,"y": 352},
-{"name": "inst_40D22851","id": "ad813196-2063-482f-bfaa-95296565a28b","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_40D22851","objId": "a9e3ee6d-d4fa-4111-9132-7787e21645a7","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 96,"y": 352}
+{"name": "inst_40D22851","id": "ad813196-2063-482f-bfaa-95296565a28b","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_40D22851","objId": "a9e3ee6d-d4fa-4111-9132-7787e21645a7","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 96,"y": 352},
+{"name": "inst_B610DDF","id": "d9bd01f4-3ac7-47dd-88a7-4dbdd4aa1c58","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_B610DDF","objId": "30394621-7b18-426b-acbb-0105da91fa1e","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 896,"y": 192}
             ],
             "layers": [
 
@@ -202,7 +204,7 @@
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "hspeed": 0,
-            "htiled": false,
+            "htiled": true,
             "inheritLayerDepth": false,
             "inheritLayerSettings": false,
             "inheritSubLayers": false,
@@ -220,7 +222,7 @@
             "userdefined_depth": false,
             "visible": true,
             "vspeed": 0,
-            "vtiled": false,
+            "vtiled": true,
             "x": 0,
             "y": 0
         }
