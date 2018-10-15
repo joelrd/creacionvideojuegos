@@ -1,5 +1,5 @@
 {
-    "id": "eefa87c3-da84-4b12-9039-887bba8b8ba7",
+    "id": "e4f1f26b-00a2-495e-ba59-69a7d622ea02",
     "modelName": "GMSound",
     "mvc": "1.0",
     "name": "snd_door",

@@ -1,5 +1,5 @@
 {
-    "id": "d08e1bbb-8ca8-4d28-9105-370bef2029a3",
+    "id": "9146e4ff-0bd0-49df-8c31-4d610ac917b4",
     "modelName": "GMSound",
     "mvc": "1.0",
     "name": "snd_explosion",
